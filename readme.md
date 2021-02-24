@@ -1,11 +1,5 @@
-Hi This has been created for demo site.
+# Heading
 
-Who am I ?
+Test
 
-#Reetish Pattnayak
-
-intertests ?
-
-Learning-practice-debug
-
-<changes to Readme.md>
+# Author: Reetish
